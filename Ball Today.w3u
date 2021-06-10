@@ -1,0 +1,492 @@
+
+
+{
+"name":"EURO 2000",
+"author": "Update 10 June 2021",
+"image":"https://www.matichon.co.th/wp-content/uploads/2021/01/438714.jpg",
+"url": "http://tiny.cc/BTD22",
+
+"groups": [ 
+
+{ 
+"name": "ตุรกี  อิตาลี 	เสาร์,12 มิถุนายน 02:00 น.",
+ "image": "https://image.springnews.co.th/uploads/images/contents/w1024/2021/06/0oqdx27lmvCgTD018zNQ.jpg?x-image-process=style/lg",
+
+
+"stations":[
+
+{ 
+"name": "BaygonHero 1",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4514.png",            
+"url": "https://www.doonung1234.com/match/view/13686/baygonhero1",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Bein Sport 1 Fr",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--400.png",            
+"url": "https://www.doonung1234.com/match/view/13686/beinsport1fr",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "ESPN",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--29.png",            
+"url": "https://www.doonung1234.com/match/view/13686/espnus",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Super Sport 2",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--692.png",            
+"url": "https://www.doonung1234.com/match/view/13686/supersport2al",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Sport TV",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1239.png",            
+"url": "https://www.doonung1234.com/match/view/13686/sportv",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Sport TV 1",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",            
+"url": "https://www.doonung1234.com/match/view/13686/sporttv1",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Bein Sport Max 4 Fr",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--403.png",            
+"url": "https://www.doonung1234.com/match/view/13686/beinmax4fr",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+
+]
+},
+
+{ 
+"name": "เวลส์  สวิตเซอร์แลนด์ เสาร์,12 มิถุนายน 20:00 น.", 
+"image": "https://s359.kapook.com/testupload/5902de54-c47e-490e-9874-4ba2157574c5.jpg", 
+
+
+"stations":[
+
+
+
+{
+"name": "ESPN",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--29.png",
+"url": "https://www.doonung1234.com/match/view/13691/espnus",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sport 1 Fr",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--400.png",
+"url": "https://www.doonung1234.com/match/view/13691/beinsport1fr",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Super Sport 2",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--692.png",            
+"url": "https://www.doonung1234.com/match/view/13686/supersport2al",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Sport TV",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1239.png",            
+"url": "https://www.doonung1234.com/match/view/13686/sportv",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sport TV 1",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",
+"url": "https://www.doonung1234.com/match/view/13691/sporttv1",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sport Max 5 Fr",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--404.png",
+"url": "https://www.doonung1234.com/match/view/13691/beinmax5fr",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+
+]
+},
+
+{ 
+"name": "เบลเยียม  รัสเซีย อาทิตย์,13 มิถุนายน 02:00 น.", 
+"image": "https://static.designmynight.com/uploads/2020/01/42-optimised.png", 
+
+
+
+"stations":[
+
+
+
+{
+"name": "Bein Sport 1 Fr",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--400.png",
+"url": "https://www.doonung1234.com/match/view/13691/beinsport1fr",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Super Sport 2",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--692.png",            
+"url": "https://www.doonung1234.com/match/view/13686/supersport2al",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Sport TV",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1239.png",            
+"url": "https://www.doonung1234.com/match/view/13686/sportv",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sport TV 1",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",
+"url": "https://www.doonung1234.com/match/view/13691/sporttv1",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Bein Sport Max 4 Fr",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--403.png",            
+"url": "https://www.doonung1234.com/match/view/13686/beinmax4fr",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+
+]
+},
+
+{ 
+"name": "อังกฤษ  โครเอเชีย อาทิตย์,13 มิถุนายน 20:00 น.", 
+"image": "https://hotfootballtickets.com//sites/hotfootballtickets.com/files/website_images/events/716x292/event_image_27409_716x292.jpg", 
+
+
+
+"stations":[
+
+{
+"name": "ESPN",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--29.png",
+"url": "https://www.doonung1234.com/match/view/13691/espnus",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sport 1 Fr",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--400.png",
+"url": "https://www.doonung1234.com/match/view/13691/beinsport1fr",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Super Sport 2",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--692.png",            
+"url": "https://www.doonung1234.com/match/view/13686/supersport2al",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Sport TV",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1239.png",            
+"url": "https://www.doonung1234.com/match/view/13686/sportv",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sport TV 1",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",
+"url": "https://www.doonung1234.com/match/view/13691/sporttv1",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Bein Sport Max 4 Fr",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--403.png",            
+"url": "https://www.doonung1234.com/match/view/13686/beinmax4fr",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+
+]
+},
+
+{ 
+"name": "ฮอลแลนด์  ยูเครน 	จันทร์,14 มิถุนายน 02:00 น.", 
+"image": "https://i.ytimg.com/vi/WmbbG7NrE18/maxresdefault.jpg", 
+
+
+
+"stations":[
+
+
+
+{
+"name": "ESPN",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--29.png",
+"url": "https://www.doonung1234.com/match/view/13691/espnus",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sport 1 Fr",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--400.png",
+"url": "https://www.doonung1234.com/match/view/13691/beinsport1fr",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Super Sport 2",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--692.png",            
+"url": "https://www.doonung1234.com/match/view/13686/supersport2al",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Sport TV",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1239.png",            
+"url": "https://www.doonung1234.com/match/view/13686/sportv",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sport TV 1",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",
+"url": "https://www.doonung1234.com/match/view/13691/sporttv1",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Bein Sport Max 4 Fr",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--403.png",            
+"url": "https://www.doonung1234.com/match/view/13686/beinmax4fr",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+]
+},
+
+{ 
+"name": "บราซิล  เวเนซุเอล่า จันทร์,14 มิถุนายน 04:00 น.", 
+"image": "https://static.siamsport.co.th/news/2019/06/18/news201906180256262.jpg", 
+
+
+
+"stations":[
+
+
+
+{
+"name": "PPTV",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1593.png",
+"url": "https://www.doonung1234.com/match/view/13703/pptv",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Ziggo Voetbal",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--286.png",
+"url": "https://www.doonung1234.com/match/view/13703/ziggosportvoetbal",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Ziggo Select",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--285.png",
+"url": "https://www.doonung1234.com/match/view/13703/ziggosportselect",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Arena Sport 2",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--319.png",
+"url": "https://www.doonung1234.com/match/view/13703/arenasport1serbia",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sport TV 2",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--451.png",
+"url": "https://www.doonung1234.com/match/view/13703/sporttv2",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+
+]
+},
+
+{ 
+"name": "สกอตแลนด์  สาธารณรัฐเช็ก 	จันทร์,14 มิถุนายน 20:00 น.", 
+"image": "https://i.ytimg.com/vi/Z5CE__3Zu0o/hqdefault.jpg", 
+
+
+
+"stations":[
+
+
+
+{
+"name": "ESPN",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--29.png",
+"url": "https://www.doonung1234.com/match/view/13691/espnus",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sport 1 Fr",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--400.png",
+"url": "https://www.doonung1234.com/match/view/13691/beinsport1fr",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Super Sport 2",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--692.png",            
+"url": "https://www.doonung1234.com/match/view/13686/supersport2al",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Sport TV",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1239.png",            
+"url": "https://www.doonung1234.com/match/view/13686/sportv",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sport TV 1",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",
+"url": "https://www.doonung1234.com/match/view/13691/sporttv1",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Bein Sport Max 4 Fr",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--403.png",            
+"url": "https://www.doonung1234.com/match/view/13686/beinmax4fr",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+]
+},
+
+
+{ 
+"name": "โปแลนด์  สโลวาเกีย 	จันทร์,14 มิถุนายน 23:00 น.", 
+"image": "https://s.isanook.com/sp/0/rp/rc/w850h510/yacxacm1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL3NwLzAvdWQvMjQ0LzEyMjMxNzcvbWF0Y2hfaW1hZ2VfMTIyMzE3Ny5qcGc=.jpg", 
+
+
+
+"stations":[
+
+
+
+{
+"name": "ESPN",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--29.png",
+"url": "https://www.doonung1234.com/match/view/13691/espnus",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sport 1 Fr",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--400.png",
+"url": "https://www.doonung1234.com/match/view/13691/beinsport1fr",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Super Sport 2",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--692.png",            
+"url": "https://www.doonung1234.com/match/view/13686/supersport2al",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Sport TV",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1239.png",            
+"url": "https://www.doonung1234.com/match/view/13686/sportv",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sport TV 1",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",
+"url": "https://www.doonung1234.com/match/view/13691/sporttv1",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Bein Sport Max 4 Fr",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--403.png",            
+"url": "https://www.doonung1234.com/match/view/13686/beinmax4fr",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+]
+},
+
+]
+}
