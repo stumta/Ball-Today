@@ -1,0 +1,255 @@
+
+
+{
+"name":"Ball Today",
+"author": "Update 12 June 2021",
+"image":"https://www.zilliondesigns.com/blog/wp-content/uploads/Football-Logos.jpg",
+"url": "http://tiny.cc/BTD33",
+
+"groups": [ 
+
+{ 
+"name": "EURO 2000",
+ "image": "https://www.freevector.com/uploads/vector/preview/2865/FreeVector-UEFA-Euro-2000.jpg",
+
+
+"stations":[
+
+
+
+{
+"name": "NBT",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+"url": "https://cdnlive.goprimetime.info/feed//chnbt/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "NBT",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+"url": "https://tv.trueid.net/embed/nbt?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (Linux; Android 8.1.0; SM-N960F Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.85 Mobile Safari/537.36",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "NBT",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27189",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "NBT",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+"url": "https://www.doonung1234.com/match/view/13690/nbt",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "ESPN",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--29.png",            
+"url": "https://www.doonung1234.com/match/view/13686/espnus",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "ESPN",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--29.png",            
+"url": "http://gma2.blab.email/fs2.m3u8",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "ESPN",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--29.png",            
+"url": "https://www.doofootball.com/live/streaming/espnus/565802",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sport TV 1",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",
+"url": "https://www.doonung1234.com/match/view/13471/sporttv1",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sport TV 1",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",
+"url": "https://www.doofootball.com/live/streaming/sporttv1/565802",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Sport TV",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1239.png",            
+"url": "https://www.doonung1234.com/match/view/13686/sportv",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Sport TV",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1239.png",            
+"url": "https://www.doofootball.com/live/streaming/sportv/565802",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Super Sport 2",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--692.png",            
+"url": "https://www.doonung1234.com/match/view/13686/supersport2al",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Super Sport 2",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--692.png",            
+"url": "https://www.doofootball.com/live/streaming/supersport2al/565802",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Bein Sport Max 4 Fr",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--403.png",            
+"url": "https://www.doonung1234.com/match/view/13686/beinmax4fr",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Bein Sport Max 4 Fr",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--403.png",            
+"url": "https://www.doofootball.com/live/streaming/beinmax4fr/565802",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+
+]
+},
+
+
+
+{ 
+"name": "COPA America 2021", 
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/2021_Copa_Am%C3%A9rica_logo.svg/1200px-2021_Copa_Am%C3%A9rica_logo.svg.png", 
+
+
+"stations":[
+
+{
+"name": "PPTV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+"url": "https://cdnlive.goprimetime.info/feed//chpptvhd/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "PPTV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+"url": "https://www.doonung1234.com/match/view/13703/pptv",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "PPTV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27129",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "PPTV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+"url": "https://fo1iptv.com/tv-player/pptv-hd.html",
+"referer": "https://fo1iptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Ziggo Voetbal",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--286.png",
+"url": "https://www.doonung1234.com/match/view/13703/ziggosportvoetbal",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Ziggo Select",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--285.png",
+"url": "https://www.doonung1234.com/match/view/13703/ziggosportselect",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Arena Sport 2",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--319.png",
+"url": "https://www.doonung1234.com/match/view/13703/arenasport1serbia",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sport TV 2",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--451.png",
+"url": "https://www.doonung1234.com/match/view/13703/sporttv2",
+"referer": "https://www.doonung1234.com/",
+"playInNatPlayer": "true"
+},
+
+]
+},
+
+{ 
+"name": "Football Program", 
+"image": "https://static.siamsport.co.th/news/2020/10/18/news20201018075587.jpg", 
+
+
+"stations":[
+
+{
+"name": "Football Program I",
+"image":"https://static.siamsport.co.th/news/2020/02/08/news202002080949592.jpg",  
+"url": "http://nikky.redfight.info/web/indexball.html",
+ "embed" : "true"
+ },
+ 
+{
+"name":"Football Program II",
+"image":"https://static.siamsport.co.th/news/2020/07/18/news2020071808041.jpg",
+"url":"https://www.chklive.com/",
+"webviewType": "chrome",
+"embed": true
+},	
+
+{
+"name":"Football Program III",
+"image":"https://static.siamsport.co.th/news/2019/01/19/news20190119083737.jpg",
+"url":"https://www.doonung1234.com/match/view/9869/epl1backup",
+"webviewType": "chrome",
+"embed": true
+},
+
+]
+},
+
+
+
+]
+}
